@@ -1,0 +1,19 @@
+[project]
+name = "econ4130-term-paper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.12"
+dependencies = [
+    "bs4>=0.0.2",
+    "hyperopt>=0.2.7",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "pip>=25.3",
+    "scikit-learn>=1.7.2",
+    "selenium>=4.38.0",
+    "torch>=2.9.1",
+    "torchvision>=0.24.1",
+    "utils>=1.0.2",
+    "xgboost>=3.1.1",
+]
