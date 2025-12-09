@@ -1,0 +1,17 @@
+[project]
+name = "econ4130-term-paper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.12"
+dependencies = [
+    "arch>=8.0.0",
+    "ib-insync>=0.9.86",
+    "matplotlib>=3.10.7",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "pip>=25.3",
+    "scikit-learn>=1.7.2",
+    "torch>=2.9.1",
+    "torchvision>=0.24.1",
+]
